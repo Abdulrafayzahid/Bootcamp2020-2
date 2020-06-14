@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  text-align: center;
+}
+
+h1 span{
+  background: -webkit-linear-gradient(rgb(164, 216, 148), rgb(203, 216, 127));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
